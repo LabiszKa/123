@@ -30,7 +30,7 @@ public class ForumUser {
         return sex;
     }
 
-    public LocalDate getBirthDay() {
+    public  LocalDate getBirthDay() {
         return birthDay;
     }
 
